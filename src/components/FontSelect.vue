@@ -297,7 +297,7 @@
 
 .arrowDown {
   float: right;
-  background-image: url(../assets/fs-sprite.png);
+  background-image: url(/images/fs-sprite.png);
   background-position: 15% -50%;
   background-repeat: no-repeat;
   width: 5%;
@@ -312,7 +312,7 @@
 
 .arrowUp {
   float: right;
-  background-image: url(../assets/fs-sprite.png);
+  background-image: url(/images/fs-sprite.png);
   background-position: 85% -50%;
   background-repeat: no-repeat;
   width: 5%;
