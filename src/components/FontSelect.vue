@@ -300,7 +300,7 @@
   background-image: url(/images/fs-sprite.png);
   background-position: 15% -50%;
   background-repeat: no-repeat;
-  width: 5%;
+  width: 15%;
   height: 30px;
 }
 
@@ -315,7 +315,7 @@
   background-image: url(/images/fs-sprite.png);
   background-position: 85% -50%;
   background-repeat: no-repeat;
-  width: 5%;
+  width: 15%;
   height: 30px;
 }
 
