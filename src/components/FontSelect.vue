@@ -297,7 +297,11 @@
 
 .arrowDown {
   float: right;
+<<<<<<< HEAD
   background-image: url("https://i.imgur.com/1ULRxe6.png");
+=======
+  background-image: url('https://www.jqueryscript.net/demo/Easy-Google-Web-Font-Selector-With-jQuery-Fontselect/fs-sprite.png');
+>>>>>>> origin/master
   background-position: 15% -50%;
   background-repeat: no-repeat;
   width: 5%;
@@ -312,7 +316,11 @@
 
 .arrowUp {
   float: right;
+<<<<<<< HEAD
   background-image: url("https://i.imgur.com/1ULRxe6.png");
+=======
+  background-image: url('https://www.jqueryscript.net/demo/Easy-Google-Web-Font-Selector-With-jQuery-Fontselect/fs-sprite.png');
+>>>>>>> origin/master
   background-position: 85% -50%;
   background-repeat: no-repeat;
   width: 5%;
